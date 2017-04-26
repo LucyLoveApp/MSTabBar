@@ -22,12 +22,14 @@
   
   ```
   
-  #效果图如下：
   
+- 4、效果图如下：
   
-  ![](https://github.com/LucyLoveApp/MSTabBar/raw/displayPic/image1.png)
+  ![](https://github.com/LucyLoveApp/MSTabBar/raw/master/displayPic/image1.png)
   
-  ![](https://github.com/LucyLoveApp/MSTabBar/raw/displayPic/image2.png)
+  点击发布按钮，跳转到此页面（下图）：
+  
+  ![](https://github.com/LucyLoveApp/MSTabBar/raw/master/displayPic/image2.png)
   
 
 
