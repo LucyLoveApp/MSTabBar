@@ -22,6 +22,12 @@
   
   ```
   
+  #效果图如下：
+  
+  
+  ![](https://github.com/LucyLoveApp/MSTabBar/raw/displayPic/image1.png)
+  
+  ![](https://github.com/LucyLoveApp/MSTabBar/raw/displayPic/image2.png)
   
 
 
